@@ -7,7 +7,7 @@ title: Code Au Café
 subtitle: Anisha Vasandani: an espresso-fueled entrepreneur blogs about all things Ruby & technology in Silicon Alley
 author: Anisha Vasandani
 simple_search: http://google.com/search
-description:
+description: XXX an espresso-fueled entrepreneur blogs about all things Ruby & technology in Silicon Alley 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: anishavasandani@gmail.com
 # RSS feeds can list your email address if you like
-email:
+email: anishavasandani@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
