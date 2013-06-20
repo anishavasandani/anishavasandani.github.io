@@ -4,7 +4,7 @@
   <title><![CDATA[Anisha Vasandani]]></title>
   <link href="http://anishavasandani.github.io/atom.xml" rel="self"/>
   <link href="http://anishavasandani.github.io/"/>
-  <updated>2013-06-20T15:43:54-04:00</updated>
+  <updated>2013-06-20T16:07:33-04:00</updated>
   <id>http://anishavasandani.github.io/</id>
   <author>
     <name><![CDATA[Anisha Vasandani]]></name>
@@ -18,7 +18,7 @@
     <link href="http://anishavasandani.github.io/blog/2013/06/19/coding/"/>
     <updated>2013-06-19T01:58:00-04:00</updated>
     <id>http://anishavasandani.github.io/blog/2013/06/19/coding</id>
-    <content type="html"><![CDATA[<p><img src="http://anishavasandani.github.io/Users/anishavasandani/anishavasandani.github.io/source/images/coffee.png" title="coffee" alt="coffee" /></p>
+    <content type="html"><![CDATA[<p><img src="http://anishavasandani.github.io/source/images/coffee.png"></p>
 
 <h4>A Coding of Age Story: Why Coding?</h4>
 
@@ -34,7 +34,7 @@
 
 <p>On Monday, my friend sent me a <a href="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/996861_10200434413956193_1597695876_n.jpg">screenshot</a> of a Facebook advertisement for the City of NY. It consisted of Mayor Bloomberg&rsquo;s commencement speech at Stanford University:</p>
 
-<p><img src="http://anishavasandani.github.io/Users/anishavasandani/anishavasandani.github.io/source/images/nycad.png" title="NYC Ad on Facebook" alt="nysad" /></p>
+<p><img src="http://anishavasandani.github.io/source/images/nycad.png"></p>
 
 <blockquote><p>I believe that more and more Stanford graduates will find themselves moving to Silicon Alley, not only because we’re the hottest new tech scene in the country, but also because there’s more to do on a Friday night than go to the Pizza Hut in Sunnyvale,” he said. “And you may even be able to find a date with a girl whose name is not Siri. Stanford graduates thrive in New York City–because both places thrive on innovation and entrepreneurialism.</p></blockquote>
 
