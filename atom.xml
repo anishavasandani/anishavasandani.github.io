@@ -4,7 +4,7 @@
   <title><![CDATA[Anisha Vasandani]]></title>
   <link href="http://anishavasandani.github.io/atom.xml" rel="self"/>
   <link href="http://anishavasandani.github.io/"/>
-  <updated>2013-06-20T16:08:10-04:00</updated>
+  <updated>2013-06-20T16:44:50-04:00</updated>
   <id>http://anishavasandani.github.io/</id>
   <author>
     <name><![CDATA[Anisha Vasandani]]></name>
@@ -18,7 +18,8 @@
     <link href="http://anishavasandani.github.io/blog/2013/06/19/coding/"/>
     <updated>2013-06-19T01:58:00-04:00</updated>
     <id>http://anishavasandani.github.io/blog/2013/06/19/coding</id>
-    <content type="html"><![CDATA[<p><img src="http://anishavasandani.github.io/source/images/coffee.png"></p>
+    <content type="html"><![CDATA[<p><img src="http://anishavasandani.github.io/source/images/coffee.png">
+<img src="http://anishavasandani.github.io/images/coffee.png"></p>
 
 <h4>A Coding of Age Story: Why Coding?</h4>
 
