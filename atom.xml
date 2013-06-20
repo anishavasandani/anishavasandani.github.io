@@ -4,7 +4,7 @@
   <title><![CDATA[Anisha Vasandani]]></title>
   <link href="http://anishavasandani.github.io/atom.xml" rel="self"/>
   <link href="http://anishavasandani.github.io/"/>
-  <updated>2013-06-19T02:14:17-04:00</updated>
+  <updated>2013-06-20T13:47:08-04:00</updated>
   <id>http://anishavasandani.github.io/</id>
   <author>
     <name><![CDATA[Anisha Vasandani]]></name>
@@ -18,7 +18,9 @@
     <link href="http://anishavasandani.github.io/blog/2013/06/19/coding/"/>
     <updated>2013-06-19T01:58:00-04:00</updated>
     <id>http://anishavasandani.github.io/blog/2013/06/19/coding</id>
-    <content type="html"><![CDATA[<h4>A Coding of Age Story: Why Coding?</h4>
+    <content type="html"><![CDATA[<p><img src="http://anishavasandani.github.io/path/to/img.jpg" title="Optional title" alt="coffee" /></p>
+
+<h4>A Coding of Age Story: Why Coding?</h4>
 
 <p>I started to learn how to code for a few reasons other than the gems of wisdom that are floating around the tech blogs &mdash; i.e. &ldquo;everyone should learn how to code.&rdquo; I&rsquo;ve always wanted to make something, but I didn&rsquo;t believe I was capable or had the tools to do so. The misconception stemmed from the idea that all computer programmers are like my cousins, who tinkered with terminals since their pre-tweens. One works at Google, one at Hulu, and another designs Android apps. Two are younger than me. You could call me intimidated.</p>
 
@@ -32,6 +34,8 @@
 
 <p>On Monday, my friend sent me a <a href="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/996861_10200434413956193_1597695876_n.jpg">screenshot</a> of a Facebook advertisement for the City of NY. It consisted of Mayor Bloomberg&rsquo;s commencement speech at Stanford University:</p>
 
+<p><img src="source/images/nycad.jpg" title="NYC Ad on Facebook" alt="nysad" /></p>
+
 <blockquote><p>I believe that more and more Stanford graduates will find themselves moving to Silicon Alley, not only because we’re the hottest new tech scene in the country, but also because there’s more to do on a Friday night than go to the Pizza Hut in Sunnyvale,” he said. “And you may even be able to find a date with a girl whose name is not Siri. Stanford graduates thrive in New York City–because both places thrive on innovation and entrepreneurialism.</p></blockquote>
 
 <p>It made me chuckle, since I made the move from the Beach to the Alley, three weeks ago today. It reminded me of a NY tech resource called <a href="http://www.wearemadeinny.com">We Are Made in NY</a>, where you can find an abundant list of job postings from startups, educational resources, and volunteer opportunities in the technology space. Although I&rsquo;m in no position to look for jobs until closer to the completion of the course, I playfully browsed the openings for developers.</p>
@@ -40,7 +44,7 @@
 
 <p>First, I&rsquo;m an espressophile. If you&rsquo;re cognizant of my coffee addiction, you&rsquo;ll know that:</p>
 
-<p>1) I care deeply about microfoam and post many pictures of latte art. Refer to [exhibit A], [exhibit B], and [exhibit C].</p>
+<p>1) I care deeply about microfoam and post many pictures of latte art.</p>
 
 <p>2) Before moving to NY, I assembled a <a href="http://imbibemagazine.com/Best-Coffee-in-New-York-City">list</a> of coffee houses to frequent. The closest ones to Flatiron School are Birch Coffee on 27th and Stumptown Roasters at the Ace Hotel on 29th.</p>
 
