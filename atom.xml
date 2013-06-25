@@ -4,7 +4,7 @@
   <title><![CDATA[Anisha Vasandani]]></title>
   <link href="http://anishavasandani.github.io/atom.xml" rel="self"/>
   <link href="http://anishavasandani.github.io/"/>
-  <updated>2013-06-20T16:46:13-04:00</updated>
+  <updated>2013-06-24T23:05:25-04:00</updated>
   <id>http://anishavasandani.github.io/</id>
   <author>
     <name><![CDATA[Anisha Vasandani]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Refactoring: We're Not Reinventing The Wheel]]></title>
+    <link href="http://anishavasandani.github.io/blog/2013/06/24/refactoring-were-not-reinventing-the-wheel/"/>
+    <updated>2013-06-24T22:34:00-04:00</updated>
+    <id>http://anishavasandani.github.io/blog/2013/06/24/refactoring-were-not-reinventing-the-wheel</id>
+    <content type="html"><![CDATA[<p>This weekend’s assignment at the Flatiron School involved watching a slide deck on a technical Ruby topic on Speaker Deck. It’s a great website for sharing presentations online that was created by the wizards at GitHub.</p>
+
+<p>I chose a presentation by Anatoli Makarevich called <a href="http://speakerdeck.com/makaroni4/refactoring-in-ruby">“Refactoring. Ruby Edition.”</a> As a student at the Flatiron School, we had recently covered refactoring in class and thought it would be entertaining to delve into the formal process.</p>
+
+<h5>Refactoring, per Wikipedia:</h5>
+
+<p>According to Wikipedia, refactoring is a “disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.”</p>
+
+<p>English, please?</p>
+
+<h5>Refactoring 101:</h5>
+
+<p>The purpose of refactoring is to reduce complexity and improve readability, maintainability, and extensibility. When a developer refactors, he/she is not adding new features. Instead, the developer is writing tests, changing code, and removing complexities.</p>
+
+<h5>Pepé Le Pew? No, it&rsquo;s &ldquo;Code Smell&rdquo;</h5>
+
+<p>One of the topics covered in the slide deck is “code smell,” a phrase coined by Kent Beck (follow him on Twitter <a href="http://www.twitter.com/kentbeck">@kentbeck</a>). Code smell is “any symptom  in the source code of a program that possibly indicates a deeper problem.”</p>
+
+<h5>The Refactoring Cycle:</h5>
+
+<ol>
+<li><p>Find code smells</p></li>
+<li><p>Check test coverage</p></li>
+<li><p>Write new tests, if needed</p></li>
+<li><p>Refactor</p></li>
+<li><p>Change code</p></li>
+<li><p>Ensure that tests pass</p></li>
+<li><p>Automate complexity analysis</p></li>
+</ol>
+
+
+<h5>My Favorite Slides:</h5>
+
+<ul>
+<li><p>“to grow fast, you must grow right”</p></li>
+<li><p>reFACToring != reHACKing</p></li>
+</ul>
+
+
+<h5>Refactoring, In Real Life</h5>
+
+<p>One week into class at the Flatiron School, I briefly caught up with my cousin, Rajiv Makhijani. Rajiv is a software developer at Hulu and is currently developing an application for <a href="http://www.bbc.co.uk/news/technology-22538854">Google Glass</a>. He was ecstatic that I’m learning how to code and making a career switch (read here). He mentioned that he was looking back at code he had written less than a year ago and was amazed at how verbose it was and how much better he could have written it now. It’s comforting that other seasoned developers aren’t spewing out perfect code and they too, must revisit older code.</p>
+
+<p>The greatest takeaway from this slide deck is that we’re not reinventing the wheel. Instead, we’re improving upon its design. As with all things tech, code isn’t written in stone. It’s digital, ever-changing, and increasingly elegant.</p>
+
+<h5>Digging Refactoring? Read More About It, by Martin Fowler:</h5>
+
+<ul>
+<li><p><a href="http://www.refactoring.com/">http://www.refactoring.com/ </a></p></li>
+<li><p><a href="http://martinfowler.com/books/refactoringRubyEd.html">Refactoring, Ruby Edition</a></p></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Coding, Coffee, and Community]]></title>

@@ -1,0 +1,179 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Refactoring: We're Not Reinventing The Wheel - Anisha Vasandani</title>
+	<meta name="author" content="Anisha Vasandani">
+
+	
+	<meta name="description" content="Refactoring: We're Not Reinventing the Wheel This weekend’s assignment at the Flatiron School involved watching a slide deck on a technical Ruby &hellip;">
+	
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Anisha Vasandani" type="application/atom+xml">
+	
+	<link rel="canonical" href="http://anishavasandani.github.io/blog/2013/06/24/refactoring-were-not-reinventing-the-wheel/">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+	<div class="container">
+		<div class="left-col">
+			<div class="intrude-less">
+			<header id="header" class="inner"><div class="profilepic">	
+	<script src="/javascripts/md5.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('.profilepic').append("<img src='http://www.gravatar.com/avatar/509da78d33704e206204c33b0e2503c2.png" + MD5("") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
+		});
+	</script>
+</div>
+<hgroup>
+  <h1><a href="/">Anisha Vasandani</a></h1>
+  
+</hgroup>
+
+<p class="subtitle"></p>
+<nav id="main-nav"><ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+<nav id="sub-nav">
+	<div class="social">
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/foodismynish" title="Twitter">Twitter</a>
+		
+		
+		
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+</nav>
+</header>				
+			</div>
+		</div>	
+		<div class="mid-col">
+			
+				
+			
+			<div class="mid-col-container">
+				<div id="content" class="inner"><article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<h1 class="title" itemprop="name">Refactoring: We're Not Reinventing the Wheel</h1>
+	<div class="entry-content" itemprop="articleBody"><p>This weekend’s assignment at the Flatiron School involved watching a slide deck on a technical Ruby topic on Speaker Deck. It’s a great website for sharing presentations online that was created by the wizards at GitHub.</p>
+
+<p>I chose a presentation by Anatoli Makarevich called <a href="http://speakerdeck.com/makaroni4/refactoring-in-ruby">“Refactoring. Ruby Edition.”</a> As a student at the Flatiron School, we had recently covered refactoring in class and thought it would be entertaining to delve into the formal process.</p>
+
+<h5>Refactoring, per Wikipedia:</h5>
+
+<p>According to Wikipedia, refactoring is a “disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.”</p>
+
+<p>English, please?</p>
+
+<h5>Refactoring 101:</h5>
+
+<p>The purpose of refactoring is to reduce complexity and improve readability, maintainability, and extensibility. When a developer refactors, he/she is not adding new features. Instead, the developer is writing tests, changing code, and removing complexities.</p>
+
+<h5>Pepé Le Pew? No, it&rsquo;s &ldquo;Code Smell&rdquo;</h5>
+
+<p>One of the topics covered in the slide deck is “code smell,” a phrase coined by Kent Beck (follow him on Twitter <a href="http://www.twitter.com/kentbeck">@kentbeck</a>). Code smell is “any symptom  in the source code of a program that possibly indicates a deeper problem.”</p>
+
+<h5>The Refactoring Cycle:</h5>
+
+<ol>
+<li><p>Find code smells</p></li>
+<li><p>Check test coverage</p></li>
+<li><p>Write new tests, if needed</p></li>
+<li><p>Refactor</p></li>
+<li><p>Change code</p></li>
+<li><p>Ensure that tests pass</p></li>
+<li><p>Automate complexity analysis</p></li>
+</ol>
+
+
+<h5>My Favorite Slides:</h5>
+
+<ul>
+<li><p>“to grow fast, you must grow right”</p></li>
+<li><p>reFACToring != reHACKing</p></li>
+</ul>
+
+
+<h5>Refactoring, In Real Life</h5>
+
+<p>One week into class at the Flatiron School, I briefly caught up with my cousin, Rajiv Makhijani. Rajiv is a software developer at Hulu and is currently developing an application for <a href="http://www.bbc.co.uk/news/technology-22538854">Google Glass</a>. He was ecstatic that I’m learning how to code and making a career switch (read here). He mentioned that he was looking back at code he had written less than a year ago and was amazed at how verbose it was and how much better he could have written it now. It’s comforting that other seasoned developers aren’t spewing out perfect code and they too, must revisit older code.</p>
+
+<p>The greatest takeaway from this slide deck is that we’re not reinventing the wheel. Instead, we’re improving upon its design. As with all things tech, code isn’t written in stone. It’s digital, ever-changing, and increasingly elegant.</p>
+
+<h5>Digging Refactoring? Read More About It, by Martin Fowler:</h5>
+
+<ul>
+<li><p><a href="http://www.refactoring.com/">http://www.refactoring.com/ </a></p></li>
+<li><p><a href="http://martinfowler.com/books/refactoringRubyEd.html">Refactoring, Ruby Edition</a></p></li>
+</ul>
+
+</div>
+
+</article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+</div>
+			</div>
+			<footer id="footer" class="inner"><p>
+  Copyright &copy; 2013 - Anisha Vasandani -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Shashank Mehta</a></footer>
+			<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+
+
+
+		</div>
+	</div>
+</body>
+</html>
